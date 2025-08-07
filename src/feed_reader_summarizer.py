@@ -28,7 +28,7 @@
     2. **Purpose**:    - The script uses `load_dotenv()` to load the `XAI_API_KEY` for authenticating requests to the xAI Grok API.
 
     ### How to Run the Program
-     python feedReader.py path/to/feeds.opml
+     python feed_reader_summarizer.py path/to/feeds.opml
 
     3. **User Input**:
        - The script prompts for the number of hours to go back for filtering articles (e.g., `24` for articles from the last 24 hours).
